@@ -1,0 +1,6 @@
+openai
+groq
+jupyterlab
+redlines
+panel==1.7.0
+jupyter-bokeh==4.0.5
